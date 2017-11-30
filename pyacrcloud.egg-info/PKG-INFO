@@ -1,0 +1,12 @@
+Metadata-Version: 1.0
+Name: pyacrcloud
+Version: 1.0.0
+Summary: Python wrapper for acrcloud libraries
+Home-page: https://github.com/acrcloud/acrcloud_sdk_python
+Author: ACRCloud
+Author-email: support@acrcloud.com
+License: MIT
+Description-Content-Type: UNKNOWN
+Description: UNKNOWN
+Keywords: ACRCLoud Python SDK
+Platform: UNKNOWN

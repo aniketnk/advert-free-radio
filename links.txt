@@ -1,0 +1,8 @@
+https://github.com/cweichen/pygn
+https://github.com/worldveil/dejavu/blob/master/README.md
+http://willdrevo.com/fingerprinting-and-audio-recognition-with-python/
+https://ap-console.acrcloud.com/home
+https://stackoverflow.com/questions/38075577/how-to-recognize-a-music-sample-using-python-and-gracenote
+https://www.acrcloud.com/docs/acrcloud/demos/python-demo/
+https://gpac.wp.imt.fr/downloads/gpac-nightly-builds/
+https://askubuntu.com/questions/178481/how-to-download-an-mp3-track-from-a-youtube-video

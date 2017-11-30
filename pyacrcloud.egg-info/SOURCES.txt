@@ -1,0 +1,9 @@
+setup.py
+acrcloud/__init__.py
+acrcloud/acrcloud_extr_tool.pyd
+acrcloud/recognizer.py
+pyacrcloud.egg-info/PKG-INFO
+pyacrcloud.egg-info/SOURCES.txt
+pyacrcloud.egg-info/dependency_links.txt
+pyacrcloud.egg-info/not-zip-safe
+pyacrcloud.egg-info/top_level.txt
