@@ -2,12 +2,12 @@ import os
 import glob
 import shutil
 import string
-from pydub import AudioSegment
+#from pydub import AudioSegment
 
 def splitMp3(toSplit,splitTime=0.5):
-    os.system('mp3splt\mp3splt ' + toSplit + ' -g %[@N=0,@o] -o "@nsplit" -t ' + str(splitTime))
-    os.system('move *split.mp3 SplitFiles\\')
-    os.system('set count=0 & for %x in (*) do @(set /a count+=1 >nul)')
+    fjoin.write('mp3splt\mp3splt ' + toSplit + ' -g %[@N=0,@o] -o "@nsplit" -t ' + str(splitTime))
+    fjoin.write('move *split.mp3 SplitFiles\\')
+    fjoin.write('set count=0 & for %x in (*) do @(set /a count+=1 >nul)')
     length = len(glob.glob('SplitFiles\\*'))
     #os.system('cd')
     return length
